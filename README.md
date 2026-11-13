@@ -3,8 +3,8 @@ Louis Asmus's Professional Portfolio
 
 About Me:
 Louis Asmus (Preferred name: Ben)
-Kalamazoo College former student athlete (Baseball Pitcher Only)
-2027' Bachelor of Arts Computer Science and Business with concentration in Film and Media Studies. 
+Kalamazoo College former student athlete (Baseball - Pitcher)
+2027' Bachelor of Arts Computer Science and Business 
 
 Skills: Excel, Microsoft Word, Java, Python, Visual Basic, Vibe Coding, Prompt Engineering, Data Entry, Data Analysis, GoDot, Adobe Premier Pro, Final Cut Pro, Pixelmator Pro, Customer Service, Information Technology, Leadership, and Team Building
 
@@ -18,15 +18,16 @@ Global Logistics and Distribution Intern July 2024 – August 2024
 
 Projects:
 - WHAMM (Waste Hazard Automated Manifest Manager): Manifest management software created during internship at Argonne National Laboratory. Utilzing Excel, Visual Basic, and Python. 
+
 - (In Development) Death's Door: Video Game Development, Senior Seminar course project with BLANd (Ben, Lena, Ash, and Naila Developers)
+
+- How old are you: utilizing social media to estimate users’ age: COMP 486 Machine Learning with Dr. Tasnim Final Project. This project utilized a data set that analyzed instagram user's activity. My partner and I used this data to estimate the average instagram users' age. The most accurate we got was 63% with a random forest regressor. The downside is the computing time was very long in comparison to linear regression which held a similar accuracy but faster computing time. 
 
 
 Revalent Courses:
-Data structures, Object Oriented Programming, Machine Learning, Discrete Mathematic, principles of economics, accounting basics, money banking financial mark, statistics for business/econ, principles of marketing, supply chain management, micro/macroeconomics, and corporate finance. 
+Data structures, Object Oriented Programming, Machine Learning, Discrete Mathematic, principles of economics, accounting basics, money banking financial mark, statistics for business/econ, principles of marketing, supply chain management, micro/macroeconomics, and corporate finance
 
 Goals:
 4.0 the entirety of senior year
 Obtain a career in Data Science or software development within 3 months of graduating. 
 
-This repository hosts various projects, in class assignments, and documents that 
-reflect the abilities and academic progress of Louis Benjamin Asmus
